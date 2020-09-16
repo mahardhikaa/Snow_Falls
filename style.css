@@ -9,3 +9,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media only screen and (max-width: 768px) {
+    body {
+      background-image: url('background-mobile.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
