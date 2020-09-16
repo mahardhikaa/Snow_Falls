@@ -1,0 +1,8 @@
+body{
+    background-image: url(background.png);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
